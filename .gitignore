@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.DS_Store
+data/
+saved_models/
+logs/
+.ipynb_checkpoints/
